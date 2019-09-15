@@ -6,8 +6,8 @@
  *      Author: Mateusz Salamon
  *		Contact: mateusz@msalamon.pl
  *
- *      Website:
- *      GitHub:
+ *      Website: https://msalamon.pl/dalsze-zmagania-z-rtc-ds1307-i-pcf8563-na-stm32/
+ *      GitHub: https://github.com/lamik/PCF8563_RTC_STM32_HAL
  */
 #include "main.h"
 #include "PCF8563.h"
